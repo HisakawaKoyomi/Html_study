@@ -1,19 +1,21 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title> 我的第一个网页 </title>
+    <meta charset = utf-8>
+    <title>我的第一个网页练习</title>
     <script>
-        var title = '【收到6条新消息】';
-        var total = title.length+1;
+        var hint = "【收到6条新消息】";
+        var total = hint.length + 1;
         var index = -1;
-        setInterval(function () {
-            index = (index+1)%total;
-            document.title = title.substring(index)+'我的第一个网页';
-        }, 1000);
+
+        setInterval(function(){
+            index = (index + 1)%total;
+            document.title = hint.substring(index) + "我的第一个网页练习"
+        },500)
+
     </script>
 </head>
 <body>
-<h1> 我的第一个网页 </h1>
+<h1>我的第一个网页_标题滚动</h1>
 </body>
 </html>
