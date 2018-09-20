@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="438153bb-4398-46e5-933a-db4ec4196b30" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/title_notify.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table.html" beforeDir="false" afterPath="$PROJECT_DIR$/table.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,41 +19,42 @@
     <session id="-1404590026">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.39" value="1" />
-          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="1" value="1" />
           <entry key="doc" value="1" />
-          <entry key="html" value="8" />
+          <entry key="html" value="11" />
           <entry key="md" value="1" />
           <entry key="title" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="10" />
+          <entry key="HTML" value="13" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="384" />
+          <entry key="html" value="1532" />
           <entry key="title" value="85" />
           <entry key="txt" value="64" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="469" />
+          <entry key="HTML" value="1617" />
           <entry key="PLAIN_TEXT" value="64" />
         </counts>
       </usages-collector>
@@ -64,18 +66,38 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/title_notify.html">
+        <entry file="file://$PROJECT_DIR$/table.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            <state relative-caret-position="666">
+              <caret line="49" column="15" selection-start-line="49" selection-start-column="15" selection-end-line="49" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/table.html">
+        <entry file="file://$PROJECT_DIR$/doc.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8" />
+            <state relative-caret-position="104">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/title_pratice/title_notify.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="359">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/title_pratice/title_progress.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -96,10 +118,12 @@
       <list>
         <option value="E:/HUST/前端学习/微专业/HTML/插入样式-思考练习参考答案/media/responsive.html" />
         <option value="$PROJECT_DIR$/doc" />
-        <option value="$PROJECT_DIR$/table.html" />
         <option value="$PROJECT_DIR$/title" />
         <option value="$PROJECT_DIR$/re.html" />
         <option value="$PROJECT_DIR$/title.html" />
+        <option value="$PROJECT_DIR$/title_pratice/title_progress.html" />
+        <option value="$PROJECT_DIR$/doc.html" />
+        <option value="$PROJECT_DIR$/table.html" />
       </list>
     </option>
   </component>
@@ -110,16 +134,31 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="272" />
-    <option name="y" value="72" />
-    <option name="width" value="1400" />
-    <option name="height" value="981" />
+    <option name="x" value="485" />
+    <option name="width" value="1239" />
+    <option name="height" value="965" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Html_study" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="Html_study" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="title_pratice" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -127,16 +166,10 @@
               <item name="Html_study" type="b2602c69:ProjectViewProjectNode" />
               <item name="Html_study" type="462c0819:PsiDirectoryNode" />
             </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
             <path>
-              <item name="Html_study" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Html_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Html_study" type="462c0819:PsiDirectoryNode" />
+              <item name="title_pratice" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -150,7 +183,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/table.html" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -164,31 +197,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.title_notify.html">
-    <configuration name="doc.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Html_study/doc.html">
+  <component name="RunManager" selected="JavaScript Debug.table.html (1)">
+    <configuration name="doc.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:56217/Html_study/doc.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="table.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:56217/Html_study/table.html">
       <method v="2" />
     </configuration>
     <configuration name="table.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Html_study/table.html">
       <method v="2" />
     </configuration>
-    <configuration name="title.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Html_study/title.html">
+    <configuration name="title_notify.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:56217/Html_study/title_notify.html">
       <method v="2" />
     </configuration>
-    <configuration name="title_notify.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:56217/Html_study/title_notify.html">
+    <configuration name="title_progress.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:56217/Html_study/title_pratice/title_progress.html">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="JavaScript Debug.table.html" />
-      <item itemvalue="JavaScript Debug.title.html" />
-      <item itemvalue="JavaScript Debug.doc.html" />
       <item itemvalue="JavaScript Debug.title_notify.html" />
+      <item itemvalue="JavaScript Debug.title_progress.html" />
+      <item itemvalue="JavaScript Debug.table.html (1)" />
+      <item itemvalue="JavaScript Debug.doc.html (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.table.html (1)" />
+        <item itemvalue="JavaScript Debug.doc.html (1)" />
+        <item itemvalue="JavaScript Debug.title_progress.html" />
         <item itemvalue="JavaScript Debug.title_notify.html" />
         <item itemvalue="JavaScript Debug.table.html" />
-        <item itemvalue="JavaScript Debug.doc.html" />
-        <item itemvalue="JavaScript Debug.title.html" />
       </list>
     </recent_temporary>
   </component>
@@ -208,6 +246,8 @@
       <workItem from="1537264982642" duration="1599000" />
       <workItem from="1537406347979" duration="4544000" />
       <workItem from="1537412714335" duration="2404000" />
+      <workItem from="1537415620889" duration="5907000" />
+      <workItem from="1537429255038" duration="4216000" />
     </task>
     <task id="LOCAL-00001" summary="pratice_try learn webstorm">
       <created>1537266073947</created>
@@ -234,7 +274,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21164000" />
+    <option name="totallyTimeSpent" value="31287000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -246,9 +286,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="272" y="72" width="1400" height="981" extended-state="0" />
+    <frame x="874" y="12" width="1239" height="965" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25055268" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2995816" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5014684" side_tool="true" weight="0.39801544" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
@@ -268,7 +309,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496329" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25073746" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5014684" side_tool="true" weight="0.39801544" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
@@ -277,11 +318,12 @@
       <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="bottom" id="Run" order="6" weight="0.32855567" />
       <window_info anchor="bottom" id="Favorites" order="7" weight="0.32855567" />
-      <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.49853158" weight="0.39801544" />
+      <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.49853158" weight="0.36493936" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="Structure" order="11" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="12" weight="0.32932693" />
+      <window_info anchor="bottom" id="Structure" order="11" weight="0.2491731" />
+      <window_info anchor="bottom" id="TODO" order="12" weight="0.32855567" />
+      <window_info anchor="bottom" id="Messages" order="13" visible="true" weight="0.3296582" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -323,20 +365,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doc.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/table.html">
+    <entry file="file://$PROJECT_DIR$/title_notify.html" />
+    <entry file="file://$PROJECT_DIR$/title_pratice/title_progress.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/title_notify.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        <state relative-caret-position="-8">
+          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/title_pratice/title_notify.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="49" column="15" selection-start-line="49" selection-start-column="15" selection-end-line="49" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
