@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset = utf-8>
+    <title>我的第一个网页进度练习</title>
+    <script>
+        var percent = 0;
+        var timer = setInterval(function(){
+            if (percent < 100)
+            {
+                percent = percent + 1;
+                document.title = '【'+ percent + '%】' + '我的第一个网页进度练习';
+            } else
+            {
+                document.title = '我的第一个网页进度练习';
+                clearInterval(timer);
+            }
+
+            },1000
+        )
+
+    </script>
+</head>
+<body>
+<h1>我的第一个网页进度练习</h1>
+</body>
+</html>
