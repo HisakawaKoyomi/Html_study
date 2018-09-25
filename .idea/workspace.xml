@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <list default="true" id="438153bb-4398-46e5-933a-db4ec4196b30" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/comment_module.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="438153bb-4398-46e5-933a-db4ec4196b30" name="Default Changelist" comment="" />
+>>>>>>> Stashed changes
 =======
     <list default="true" id="438153bb-4398-46e5-933a-db4ec4196b30" name="Default Changelist" comment="" />
 >>>>>>> Stashed changes
@@ -65,7 +69,7 @@
     <session id="932255980">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.34" value="1" />
           <entry key="project.opened" value="2" />
@@ -300,9 +304,13 @@
 <<<<<<< Updated upstream
       <workItem from="1537429255038" duration="4216000" />
       <workItem from="1537451196821" duration="111000" />
+<<<<<<< Updated upstream
       <workItem from="1537690979748" duration="223000" />
 =======
       <workItem from="1537429255038" duration="5430000" />
+>>>>>>> Stashed changes
+=======
+      <workItem from="1537690979748" duration="428000" />
 >>>>>>> Stashed changes
     </task>
     <task id="LOCAL-00001" summary="pratice_try learn webstorm">
@@ -331,9 +339,13 @@
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="31621000" />
 =======
     <option name="totallyTimeSpent" value="32501000" />
+>>>>>>> Stashed changes
+=======
+    <option name="totallyTimeSpent" value="31826000" />
 >>>>>>> Stashed changes
   </component>
   <component name="TodoView">
@@ -348,9 +360,12 @@
   <component name="ToolWindowManager">
 <<<<<<< Updated upstream
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+<<<<<<< Updated upstream
     <editor active="true" />
 =======
     <frame x="485" y="0" width="1239" height="965" extended-state="0" />
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26716417" />
