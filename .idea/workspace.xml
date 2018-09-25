@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="438153bb-4398-46e5-933a-db4ec4196b30" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/comment_module.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="438153bb-4398-46e5-933a-db4ec4196b30" name="Default Changelist" comment="" />
+>>>>>>> Stashed changes
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,7 +22,7 @@
     <session id="-1404590026">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.5" value="2" />
@@ -97,8 +101,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/table.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="1372">
               <caret line="49" column="15" selection-start-line="49" selection-start-column="15" selection-end-line="49" selection-end-column="15" />
+=======
+            <state relative-caret-position="198">
+              <caret line="41" column="19" lean-forward="true" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
@@ -172,9 +181,15 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+<<<<<<< Updated upstream
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="98" />
     <option name="y" value="-23" />
+=======
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="327" />
+    <option name="y" value="38" />
+>>>>>>> Stashed changes
     <option name="width" value="1239" />
     <option name="height" value="788" />
   </component>
@@ -282,9 +297,13 @@
       <workItem from="1537406347979" duration="4544000" />
       <workItem from="1537412714335" duration="2404000" />
       <workItem from="1537415620889" duration="5907000" />
+<<<<<<< Updated upstream
       <workItem from="1537429255038" duration="4216000" />
       <workItem from="1537451196821" duration="111000" />
       <workItem from="1537690979748" duration="223000" />
+=======
+      <workItem from="1537429255038" duration="5430000" />
+>>>>>>> Stashed changes
     </task>
     <task id="LOCAL-00001" summary="pratice_try learn webstorm">
       <created>1537266073947</created>
@@ -311,7 +330,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="31621000" />
+=======
+    <option name="totallyTimeSpent" value="32501000" />
+>>>>>>> Stashed changes
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -323,8 +346,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< Updated upstream
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
+=======
+    <frame x="485" y="0" width="1239" height="965" extended-state="0" />
+>>>>>>> Stashed changes
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26716417" />
       <window_info anchor="bottom" id="Terminal" order="0" />
@@ -421,8 +448,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/comment_module.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="280">
           <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+=======
+        <state relative-caret-position="198">
+          <caret line="41" column="19" lean-forward="true" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
